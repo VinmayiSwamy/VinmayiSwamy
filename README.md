@@ -1,12 +1,11 @@
 ## Vinmayi’s GitHub Profile 👋
-
 Hey there, my name Vinmayi Swamy. I’m a passionate Software Developer with a keen interest in building impactful software solutions.
 
 - 🌱 I’m currently learning advanced web development.
 - 💼 I'm working on various web projects using technologies like Drupal, PHP, MySQl, HTML, CSS, JavaScript, and React.
 - 🤝 I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 💬 Ask me about Drupal, PHP, MySQL, Javascript or Hot Chocolate.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinmayiswamy5/) or Twitter @VinmayiSwamy
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinmayiswamy5/) or Twitter [@VinmayiSwamy](https://twitter.com/VinmayiSwamy)
 - ✍️ I blog on [Medium](https://medium.com/@vinmayiswamy) sometimes
 
 
