@@ -1,4 +1,4 @@
-# Vinmayi’s GitHub Profile 👋
+## Vinmayi’s GitHub Profile 👋
 
 Hey there, my name Vinmayi Swamy. I’m a passionate Software Developer with a keen interest in building impactful software solutions.
 
