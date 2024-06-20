@@ -31,7 +31,7 @@ Here are some of my notable projects:
 
 ## Contact
 - 📫 How to reach me: 
-- [LinkedIn](https://www.linkedin.com/in/vinmayiswamy/)
+- [LinkedIn](https://www.linkedin.com/in/vinmayiswamy5/)
 
 <!--
 ### Hi there 👋
