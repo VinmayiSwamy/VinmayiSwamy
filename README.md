@@ -1,3 +1,16 @@
+# Vinmayi’s GitHub Profile 👋
+
+Hey there, my name Vinmayi Swamy. I’m a passionate Software Developer with a keen interest in building impactful software solutions.
+
+- 🌱 I’m currently learning advanced web development.
+- 💼 I'm working on various web projects using technologies like Drupal, PHP, MySQl, HTML, CSS, JavaScript, and React.
+- 🤝 I’m looking to collaborate on open-source projects and innovative tech solutions.
+- 💬 Ask me about Drupal, PHP, MySQL, Javascript or Hot Chocolate.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vinmayiswamy5/) or Twitter @VinmayiSwamy
+- ✍️ I blog on [Medium](https://medium.com/@vinmayiswamy) sometimes
+
+
+<!--
 # Hi there! 👋
 I'm Vinmayi Swamy, a passionate Software Developer with a keen interest in building impactful software solutions.
 
@@ -21,18 +34,18 @@ I'm Vinmayi Swamy, a passionate Software Developer with a keen interest in build
 - **Version Control**: Skilled in using Git, GitHub, Tortoise SVN, and Bitbucket for version control and collaboration.
 - **Continuous Integration**: Familiar with Jenkins for CI/CD pipelines.
 - **Database Management**: Experienced with MySQL and MongoDB for database management.
-<!--
+
 ## Projects
 Here are some of my notable projects:
 - [Masked-Hunters](https://github.com/VinmayiSwamy/Masked-Hunters): A project description here.
 - [React Demo](https://github.com/VinmayiSwamy/react_demo): A project description here.
 - [Project PMS](https://github.com/VinmayiSwamy/Project_PMS): A project description here.
--->
+
 
 ## Contact
 - 📫 How to reach me: 
 - [LinkedIn](https://www.linkedin.com/in/vinmayiswamy5/)
-
+-->
 <!--
 ### Hi there 👋
 
